@@ -55,8 +55,8 @@ article_id/title/body
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Credited to:Brad Traversy and DLFJJ(godfather)
+
 
 ### Version
 
